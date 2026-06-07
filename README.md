@@ -1,5 +1,6 @@
 # 🌍 Personal Travel Planner
 
+June 2026 
 An AI-driven travel planning application that uses Large Language Models (LLMs) to create personalized travel itineraries based on a user’s destination, budget, travel dates, interests, and preferences.
 
 ## 📌 Project Overview
